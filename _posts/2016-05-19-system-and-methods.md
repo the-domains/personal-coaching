@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T19:12:15.107Z'
+datePublished: '2016-08-25T19:14:27.694Z'
 sourcePath: _posts/2016-05-19-system-and-methods.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T19:11:49.089Z'
-title: ''
+dateModified: '2016-08-25T19:14:24.254Z'
+title: 'Training systems '
 publisher: {}
 description: 'Injury prevention:'
 inLanguage: null
@@ -18,17 +18,19 @@ url: methods/index.html
 _type: Article
 
 ---
+# Training systems 
+
 **Injury prevention:**
 
-* -- Massage
+* Massage
 * Stretch
-* Activate
+* Activation
 
 **Movement preparation:**
 
-* Activation 
+* Activation
 * Dynamic stretch
-* Movement integration 
+* Movement integration
 * Neural activation
 
 **Medicine ball:**
@@ -44,7 +46,7 @@ _type: Article
 **Movement skills:**
 
 * Linear
-* Multidirectional 
+* Multidirectional
 
 **Strength**
 
