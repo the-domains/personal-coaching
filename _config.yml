@@ -19,11 +19,15 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Personal coaching
+name: "BodyProject\_"
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About us
+    id: 9b66640a-c990-4205-a508-12c1acce9b7a
+    type: content
 favicon: null
 title: Sports Performance &                     Personal Coaching
 purpose: []
