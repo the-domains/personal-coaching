@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-25T10:40:23.063Z'
-sourcePath: >-
-  _posts/2016-04-16-apple-challenges-government-demand-to-crack-drug-dealers-ip.md
 inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: >-
   http://www.buzzfeed.com/hamzashaban/apple-challenges-government-demand-to-crack-drug-dealers-iph#.lyz519Bpy
-hasPage: false
+inLanguage: en
 keywords:
   - apple
   - bernardino
@@ -17,9 +16,19 @@ keywords:
   - encrypted
   - fbi
   - department
+description: >-
+  Apple has formally challenged the U.S. Department of Justice over another
+  locked iPhone and the encrypted information it contains. Owned by an accused
+  methamphetamine distributor in Brooklyn, the iPhone 5s is believed to contain
+  evidence of a drug conspiracy, investigators said. The government claims that
+  its technicians can't penetrate the locked iPhone and require Apple's help to
+  get inside.
+datePublished: '2016-08-25T11:18:31.014Z'
+dateModified: '2016-08-25T11:18:17.772Z'
+sourcePath: >-
+  _posts/2016-04-16-apple-challenges-government-demand-to-crack-drug-dealers-ip.md
 related: []
 author: []
-dateModified: '2016-08-25T10:40:22.665Z'
 title: Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York
 app_links:
   - url: >-
@@ -42,21 +51,13 @@ app_links:
     type: android
     namespace: google
     package: com.buzzfeed.android
-publisher:
-  url: 'https://www.buzzfeed.com'
-  name: BuzzFeed
-  favicon: 'https://webappstatic.buzzfeed.com/static/favicon.ico?v=1460753366'
-  domain: www.buzzfeed.com
-description: >-
-  Apple has formally challenged the U.S. Department of Justice over another
-  locked iPhone and the encrypted information it contains. Owned by an accused
-  methamphetamine distributor in Brooklyn, the iPhone 5s is believed to contain
-  evidence of a drug conspiracy, investigators said. The government claims that
-  its technicians can't penetrate the locked iPhone and require Apple's help to
-  get inside.
-inLanguage: en
-inNav: false
 via: {}
+authors: []
+publisher:
+  name: BuzzFeed
+  domain: www.buzzfeed.com
+  url: 'https://www.buzzfeed.com'
+  favicon: 'https://webappstatic.buzzfeed.com/static/favicon.ico?v=1460753366'
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
