@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sports Performance &                     Personal Coaching]]></title>
+        <description><![CDATA[Sports Performance &                     Personal Coaching]]></description>
+        <link>http://bodyprojectpc.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Aug 2016 12:01:41 GMT</lastBuildDate>
+        <atom:link href="http://bodyprojectpc.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact us]]></title>
+            <description><![CDATA[<h1>Contact us</h1>]]></description>
+            <link>http://bodyprojectpc.com/contact-us/index.html</link>
+            <guid isPermaLink="false">67926e8f-57e4-4395-afa5-dab188e67ece</guid>
+            <pubDate>Thu, 25 Aug 2016 12:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72b430f-59c6-4afe-a6e4-9346b46361a8.jpg">]]></description>
+            <link>http://bodyprojectpc.com/6f2c411a-944f-49a9-984f-ddb1187f6ef5/index.html</link>
+            <guid isPermaLink="false">6f2c411a-944f-49a9-984f-ddb1187f6ef5</guid>
+            <pubDate>Thu, 25 Aug 2016 11:56:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
