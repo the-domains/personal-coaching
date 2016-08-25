@@ -34,6 +34,9 @@ navigation:
   - name: Services
     id: 2e71b63b-370e-4144-9aea-80cf44575f42
     type: content
+  - name: 'Training systems '
+    id: 8141d20a-5018-4e1f-a3d1-db901ead8d75
+    type: content
 favicon: null
 title: "Sports Performance \_                      Personal Coaching"
 purpose: []
