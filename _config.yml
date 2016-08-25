@@ -1,14 +1,29 @@
+name: Personal coaching
+favicon: null
 layout_spectrum: 0.8608463397249579
 typography_spectrum: 0.18479642691090703
+title: BodyProjectPC
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
   brandStrength: 0.8911944841966033
   lightness: 0.19888293463736773
   saturation: 0.8315825185272843
   rhythmicContrast: 0.3246730831451714
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-name: Personal coaching
+purpose: []
