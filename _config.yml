@@ -1,20 +1,4 @@
-name: Personal coaching
-favicon: null
-layout_spectrum: 0.8608463397249579
 typography_spectrum: 0.18479642691090703
-title: Sports Performance & Personal Coaching
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -26,4 +10,20 @@ color:
   lightness: 0.19888293463736773
   saturation: 0.8315825185272843
   rhythmicContrast: 0.3246730831451714
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8608463397249579
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Personal coaching
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Sports Performance & Personal Coaching
 purpose: []
