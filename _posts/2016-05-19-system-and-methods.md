@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T19:14:27.694Z'
+datePublished: '2016-08-25T19:17:07.347Z'
 sourcePath: _posts/2016-05-19-system-and-methods.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T19:14:24.254Z'
+dateModified: '2016-08-25T19:17:04.648Z'
 title: 'Training systems '
 publisher: {}
 description: 'Injury prevention:'
