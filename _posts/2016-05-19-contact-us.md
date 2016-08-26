@@ -1,21 +1,21 @@
 ---
-datePublished: '2016-08-25T12:17:29.196Z'
-sourcePath: _posts/2016-05-19-contact-us.md
 inFeed: true
-authors: []
-hasPage: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-08-26T10:28:56.039Z'
+dateModified: '2016-08-26T10:24:16.329Z'
+sourcePath: _posts/2016-05-19-contact-us.md
 author: []
 via: {}
-dateModified: '2016-08-25T12:17:28.654Z'
 title: Contact us
+authors: []
 publisher: {}
-description: ''
-inLanguage: null
-inNav: true
 starred: false
-url: contact-us/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Contact us
