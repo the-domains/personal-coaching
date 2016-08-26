@@ -50,5 +50,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: "Sports Performance \_                                Personal Coaching"
+title: ''
 purpose: []
