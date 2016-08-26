@@ -1,29 +1,28 @@
-typography_spectrum: 0.18479642691090703
+title: "Sports Performance \_                      Personal Coaching"
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.8315825
+  brandStrength: 0.8911944841966033
+  lightness: 0.4964158
   brandColors:
     - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.8911944841966033
-  lightness: 0.19888293463736773
-  saturation: 0.8315825185272843
-  rhythmicContrast: 0.3246730831451714
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.8608463397249579
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: "BodyProject\_"
-cta:
-  domain: null
-  bucket: null
-  version: null
+    - '#D11900'
+    - '#000000'
+    - '#C4C4C4'
+    - '#D35B2F'
+  rhythmicContrast: 0.297491
 navigation:
   - name: Contact us
     id: 67926e8f-57e4-4395-afa5-dab188e67ece
@@ -37,6 +36,19 @@ navigation:
   - name: 'Training systems '
     id: 8141d20a-5018-4e1f-a3d1-db901ead8d75
     type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: "BodyProject\_"
 favicon: null
-title: "Sports Performance \_                      Personal Coaching"
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.1577061
