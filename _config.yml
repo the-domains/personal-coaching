@@ -1,5 +1,8 @@
+name: "BodyProject\_"
+favicon: null
+layout_spectrum: 0.21797
+typography_spectrum: 0.20799
 title: "Sports Performance \_                      Personal Coaching"
-purpose: []
 collections:
   - index:
       path: /
@@ -12,17 +15,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.8315825
-  brandStrength: 0.8911944841966033
-  lightness: 0.4964158
-  brandColors:
-    - '#FFFFFF'
-    - '#D11900'
-    - '#000000'
-    - '#C4C4C4'
-    - '#D35B2F'
-  rhythmicContrast: 0.297491
 navigation:
   - name: Contact us
     id: 67926e8f-57e4-4395-afa5-dab188e67ece
@@ -37,18 +29,26 @@ navigation:
     id: 8141d20a-5018-4e1f-a3d1-db901ead8d75
     type: content
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: "BodyProject\_"
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 1
-layout_spectrum: 0.1577061
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#D11900'
+    - '#000000'
+    - '#C4C4C4'
+    - '#D35B2F'
+  brandStrength: 0.8911944841966033
+  lightness: 0.4964158
+  saturation: 0.8315825
+  rhythmicContrast: 0.297491
+purpose: []
