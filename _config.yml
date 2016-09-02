@@ -1,57 +1,55 @@
-name: "BodyProject\_"
-favicon: null
-layout_spectrum: 0.2901
-typography_spectrum: 0.5266592490952462
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/64cd7467-4794-40b0-9b30-894832fb7a6b.jpg
-navigation:
-  - name: Services
-    id: 2e71b63b-370e-4144-9aea-80cf44575f42
-    type: content
-  - name: Contact us
-    id: 67926e8f-57e4-4395-afa5-dab188e67ece
-    type: content
-  - name: About us
-    id: 9b66640a-c990-4205-a508-12c1acce9b7a
-    type: content
-  - name: 'Training systems '
-    id: 8141d20a-5018-4e1f-a3d1-db901ead8d75
-    type: content
+title: BodyProjectPC
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: BodyProjectPC
+    permalink:
+      path: '/:title/'
 description: "Personal Coaching & Sports Performance\_"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.125
+  brandStrength: 0.8911944841966033
+  rhythmicContrast: 1
   brandColors:
     - '#FFFFFF'
     - '#D11900'
     - '#000000'
-    - '#4E4E4E'
-    - '#B2B2B2'
-  brandStrength: 0.782243245979771
-  lightness: 0.9649325634818524
-  saturation: 0.7235929961316288
-  rhythmicContrast: 0.5397239723242819
-purpose: []
+    - '#C4C4C4'
+    - '#D35B2F'
+  lightness: 0.875
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: Contact us
+    id: 67926e8f-57e4-4395-afa5-dab188e67ece
+    type: content
+  - name: About us
+    id: 9b66640a-c990-4205-a508-12c1acce9b7a
+    type: content
+  - name: Services
+    id: 2e71b63b-370e-4144-9aea-80cf44575f42
+    type: content
+  - name: 'Training systems '
+    id: 8141d20a-5018-4e1f-a3d1-db901ead8d75
+    type: content
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: "BodyProject\_"
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3584229
+layout_spectrum: 0.13568
