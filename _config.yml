@@ -1,31 +1,9 @@
+name: "BodyProject\_"
+favicon: null
+layout_spectrum: 0.2901
 typography_spectrum: 0.5266592490952462
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#D11900'
-    - '#000000'
-    - '#4E4E4E'
-    - '#B2B2B2'
-  brandStrength: 0.782243245979771
-  lightness: 0.9649325634818524
-  saturation: 0.7235929961316288
-  rhythmicContrast: 0.5397239723242819
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5621377993375063
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/64cd7467-4794-40b0-9b30-894832fb7a6b.jpg
-name: "BodyProject\_"
-cta:
-  domain: null
-  bucket: null
-  version: null
 navigation:
   - name: Services
     id: 2e71b63b-370e-4144-9aea-80cf44575f42
@@ -39,7 +17,6 @@ navigation:
   - name: 'Training systems '
     id: 8141d20a-5018-4e1f-a3d1-db901ead8d75
     type: content
-favicon: null
 collections:
   - index:
       path: /
@@ -54,4 +31,27 @@ collections:
       number: 10
 title: BodyProjectPC
 description: "Personal Coaching & Sports Performance\_"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#D11900'
+    - '#000000'
+    - '#4E4E4E'
+    - '#B2B2B2'
+  brandStrength: 0.782243245979771
+  lightness: 0.9649325634818524
+  saturation: 0.7235929961316288
+  rhythmicContrast: 0.5397239723242819
 purpose: []
