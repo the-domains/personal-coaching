@@ -19,20 +19,20 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: "BodyProject\_"
+name: BodyProject PC
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
+  - name: Services
+    id: 2e71b63b-370e-4144-9aea-80cf44575f42
+    type: content
   - name: Contact us
     id: 67926e8f-57e4-4395-afa5-dab188e67ece
     type: content
   - name: About us
     id: 9b66640a-c990-4205-a508-12c1acce9b7a
-    type: content
-  - name: Services
-    id: 2e71b63b-370e-4144-9aea-80cf44575f42
     type: content
   - name: 'Training systems '
     id: 8141d20a-5018-4e1f-a3d1-db901ead8d75
