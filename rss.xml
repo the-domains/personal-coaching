@@ -4,7 +4,7 @@
         <description><![CDATA[BodyProjectPC]]></description>
         <link>http://bodyprojectpc.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 16:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 15:27:36 GMT</lastBuildDate>
         <atom:link href="http://bodyprojectpc.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About us]]></title>
@@ -12,6 +12,13 @@
             <link>http://bodyprojectpc.com/about-us/index.html</link>
             <guid isPermaLink="false">9b66640a-c990-4205-a508-12c1acce9b7a</guid>
             <pubDate>Thu, 25 Aug 2016 12:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Is a Foam Roller, How Do I Use It, and Why Does It Hurt?]]></title>
+            <description><![CDATA[<article><h1>What Is a Foam Roller, How Do I Use It, and Why Does It Hurt?</h1><p>Self-myofascial release, also known as "foam rolling," has transformed from a once mysterious technique used only by professional athletes, coaches, and therapists to a familiar everyday practice for people at all levels of fitness. Recent information, technology, and affordable products have introduced an increasing array of training and recovery methods to the average person.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2128a2d6dd3e726a0e9ad123b6156554/noop.jpg?input=https%3A%2F%2Fcdn2.omidoo.com%2Fsites%2Fdefault%2Ffiles%2Fimagecache%2Ffull_width%2Fimages%2Fbydate%2F20130211%2Fcalfbottoms.jpg"></article>]]></description>
+            <link>http://breakingmuscle.com/mobility-recovery/what-is-a-foam-roller-how-do-i-use-it-and-why-does-it-hurt</link>
+            <guid isPermaLink="false">84ad9302-de7e-4d5e-adc2-a1db47b4872f</guid>
+            <pubDate>Wed, 31 Aug 2016 15:26:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
