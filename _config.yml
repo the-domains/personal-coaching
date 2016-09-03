@@ -34,9 +34,6 @@ navigation:
   - name: Contact us
     id: 67926e8f-57e4-4395-afa5-dab188e67ece
     type: content
-  - name: 'Training systems '
-    id: 8141d20a-5018-4e1f-a3d1-db901ead8d75
-    type: content
 favicon: null
 collections:
   - index:
