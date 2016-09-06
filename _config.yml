@@ -31,6 +31,9 @@ navigation:
   - name: About us
     id: 9b66640a-c990-4205-a508-12c1acce9b7a
     type: content
+  - name: Contact us
+    id: 67926e8f-57e4-4395-afa5-dab188e67ece
+    type: content
 favicon: null
 collections:
   - index:
