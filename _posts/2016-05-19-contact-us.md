@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-26T10:28:56.039Z'
-dateModified: '2016-08-26T10:24:16.329Z'
+datePublished: '2016-09-02T12:20:40.524Z'
+dateModified: '2016-09-02T12:20:34.909Z'
 sourcePath: _posts/2016-05-19-contact-us.md
 author: []
 via: {}
@@ -15,7 +14,8 @@ title: Contact us
 authors: []
 publisher: {}
 starred: false
-_type: Blurb
+url: contact-us/index.html
+_type: Article
 
 ---
 # Contact us
