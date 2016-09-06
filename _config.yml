@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Contact us
-    id: 67926e8f-57e4-4395-afa5-dab188e67ece
-    type: content
 favicon: null
 collections:
   - index:
