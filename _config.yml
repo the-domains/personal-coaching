@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Services
+    id: 2e71b63b-370e-4144-9aea-80cf44575f42
+    type: content
 favicon: null
 collections:
   - index:
