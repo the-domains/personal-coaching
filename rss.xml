@@ -4,14 +4,21 @@
         <description><![CDATA[BodyProjectPC]]></description>
         <link>http://bodyprojectpc.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 12:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 12:39:54 GMT</lastBuildDate>
         <atom:link href="http://bodyprojectpc.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><p> Strength and conditioning coaching for athletes/ teams of every level in the sports of:</p></article>]]></description>
+            <link>http://bodyprojectpc.com/services/index.html</link>
+            <guid isPermaLink="false">2e71b63b-370e-4144-9aea-80cf44575f42</guid>
+            <pubDate>Fri, 02 Sep 2016 12:39:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact us]]></title>
             <description><![CDATA[<h1>Contact us</h1>]]></description>
             <link>http://bodyprojectpc.com/contact-us/index.html</link>
             <guid isPermaLink="false">67926e8f-57e4-4395-afa5-dab188e67ece</guid>
-            <pubDate>Fri, 02 Sep 2016 12:20:40 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 12:39:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gray Cook: What I Look for in a Functional Movement Screen Score - On Target Publications]]></title>
@@ -26,6 +33,13 @@
             <link>http://breakingmuscle.com/mobility-recovery/what-is-a-foam-roller-how-do-i-use-it-and-why-does-it-hurt</link>
             <guid isPermaLink="false">84ad9302-de7e-4d5e-adc2-a1db47b4872f</guid>
             <pubDate>Wed, 31 Aug 2016 15:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a9d69e4-ff04-40bf-b897-51a472288c50.jpg">]]></description>
+            <link>http://bodyprojectpc.com/about-us/index.html</link>
+            <guid isPermaLink="false">9b66640a-c990-4205-a508-12c1acce9b7a</guid>
+            <pubDate>Fri, 02 Sep 2016 12:39:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
